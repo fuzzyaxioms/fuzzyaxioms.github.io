@@ -1,14 +1,6 @@
-# WORK IN PROGRESS
-
-# Zhaohan Daniel Guo
-I am a PhD Student at Carnegie Mellon University. My advisor is Emma Brunskill. My interest is in machine learning, specifically reinforcement learning. My CV is here. My email is zguo at cs dot cmu dot edu.
-
-# Academic History
-PhD Candidate at Carnegie Mellon University, 2013-now
-Bachelor of Science at University of Toronto, 2009-2013
-
-# Publications
-## 2017
-## 2016
-## 2015
-## 2014
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
